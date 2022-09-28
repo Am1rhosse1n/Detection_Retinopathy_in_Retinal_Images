@@ -25,4 +25,4 @@ Architecture:
 
 Result:
 
-Train: Accuracy: 87.17%      Test: Accuracy: 84.62%
+Train: Accuracy=87.17%   |   Test: Accuracy=84.62%
